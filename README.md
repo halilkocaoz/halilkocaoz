@@ -1,4 +1,4 @@
-## Hi there 👋. I'm Halil,
+## Hi there 🖖. I'm Halil,
 mainly interested in server-side software development.
 
 ### 📫 Reach me
