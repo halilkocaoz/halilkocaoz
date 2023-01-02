@@ -4,7 +4,7 @@ mainly interested in server-side software development.
 ### 📫 Reach me
 * [halilkocaoz.com](https://halilkocaoz.com/)
 * [halil.i.kocaoz@gmail.com](mailto:halil.i.kocaoz@gmail.com)
-
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=halilkocaoz&show_icons=true&theme=dark&count_private=true&hide_border=true" alt="halilkocaoz" /></p>
 <!--
 **halilkocaoz/halilkocaoz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
