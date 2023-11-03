@@ -1,7 +1,7 @@
 ## Hi there 🖖. I'm Halil,
 mainly interested in server-side software development.
 
-## 📬 
+## 📬
 * [halilkocaoz.com](https://halilkocaoz.com/)
 * [halil.i.kocaoz@gmail.com](mailto:halil.i.kocaoz@gmail.com)
 
