@@ -1,12 +1,12 @@
 ## Hi there 🖖. I'm Halil,
 mainly interested in server-side software development.
 
-## 📬
+## 📬 Reach me
 * [halilkocaoz.com](https://halilkocaoz.com/)
 * [halil.i.kocaoz@gmail.com](mailto:halil.i.kocaoz@gmail.com)
 
 ## 🛠️
-![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=halilkocaoz&hide=html,css,javascript,typescript&hide_title=true&hide_progress=true)
+![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=halilkocaoz&hide=html,css&hide_title=true&hide_progress=true&langs_count=8)
 
 <!--
 
