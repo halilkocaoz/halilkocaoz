@@ -1,10 +1,16 @@
 ## Hi there 🖖. I'm Halil,
 mainly interested in server-side software development.
 
-### 📫 Reach me
+## 📬 
 * [halilkocaoz.com](https://halilkocaoz.com/)
 * [halil.i.kocaoz@gmail.com](mailto:halil.i.kocaoz@gmail.com)
+
+## 🛠️ Tools
+![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=halilkocaoz&hide=html,css,javascript,typescript&hide_title=true&hide_progress=true)
+
 <!--
+
+
 **halilkocaoz/halilkocaoz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
