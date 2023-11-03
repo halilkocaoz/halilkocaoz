@@ -5,7 +5,7 @@ mainly interested in server-side software development.
 * [halilkocaoz.com](https://halilkocaoz.com/)
 * [halil.i.kocaoz@gmail.com](mailto:halil.i.kocaoz@gmail.com)
 
-## 🛠️ Tools
+## 🛠️
 ![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=halilkocaoz&hide=html,css,javascript,typescript&hide_title=true&hide_progress=true)
 
 <!--
