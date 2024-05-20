@@ -2,6 +2,7 @@
 mainly interested in server-side software development.
 
 ## 📬 Reach me
+* [Resume](https://halilkocaoz.com/halil_ibrahim_kocaoz.pdf)
 * [halilkocaoz.com](https://halilkocaoz.com/)
 * [halil.i.kocaoz@gmail.com](mailto:halil.i.kocaoz@gmail.com)
 
